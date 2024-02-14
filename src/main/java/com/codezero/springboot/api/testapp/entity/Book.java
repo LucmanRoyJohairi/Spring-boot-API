@@ -16,6 +16,8 @@ public class Book {
     private String content;
 
     // standard constructors
+    public Book() {
+    }
 
     // standard getters and setters
     public Long getId() {
